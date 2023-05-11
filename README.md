@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdetective&label=Profile%20views&color=0e75b6&style=flat" alt="mrdetective" /> </p>
 <img align="right" alt = "Coding" width = "400" src = "https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
-- 🌱 I’m currently learning **Web 3.0, Database Systems**
+- 🌱 I’m currently learning **Web 3.0, Database Management Systems**
 
 - 💬 Ask me about **Javascript, Python, Web Development and Problem Solving**
 
