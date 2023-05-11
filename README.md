@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapersmug.com/download/1920x1080/73a637/coding-characters-the-matrix-minimal.jpg)]
+![MasterHead](https://wallpapersmug.com/download/1920x1080/73a637/coding-characters-the-matrix-minimal.jpg)
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & a Passionate Learner</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
