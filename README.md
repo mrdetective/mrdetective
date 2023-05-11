@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **guptaharsha.harsha@gmail.com**
 
-- ⚡ Fun fact **I do think I'm a comedian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
