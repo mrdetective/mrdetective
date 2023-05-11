@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha</h1>
-<h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & a Passionate Learner</h3>
+<h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & A Passionate Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdetective&label=Profile%20views&color=0e75b6&style=flat" alt="mrdetective" /> </p>
 <img align="right" alt = "Coding" width = "400" src = "https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
