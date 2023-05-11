@@ -1,8 +1,8 @@
-![MasterHead](https://wallpapersmug.com/download/1920x1080/73a637/coding-characters-the-matrix-minimal.jpg)
+[![MasterHead](https://wallpapersmug.com/download/1920x1080/73a637/coding-characters-the-matrix-minimal.jpg)]
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & a Passionate Learner</h3>
-<img align="right" alt = "Coding" width = "400" src = "https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdetective&label=Profile%20views&color=0e75b6&style=flat" alt="mrdetective" /> </p>
+<img align="right" alt = "Coding" width = "400" src = "https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrdetective" alt="mrdetective" /></a> </p>
 
