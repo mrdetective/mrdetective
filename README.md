@@ -1,4 +1,3 @@
-![MasterHead](https://wallpapersmug.com/download/1920x1080/73a637/coding-characters-the-matrix-minimal.jpg)
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & a Passionate Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdetective&label=Profile%20views&color=0e75b6&style=flat" alt="mrdetective" /> </p>
