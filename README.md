@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdetective&label=Profile%20views&color=0e75b6&style=flat" alt="mrdetective" /> </p>
 <img align="right" alt = "Coding" width = "400" src = "https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrdetective" alt="mrdetective" /></a> </p>
-
 - 🌱 I’m currently learning **Web3, Database Systems**
 
 - 💬 Ask me about **Javascript, Python and Problem Solving**
