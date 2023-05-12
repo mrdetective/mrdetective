@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/mrdetective/Cover_img)
+![MasterHead](https://github.com/mrdetective/Cover_img/blob/main/Code%20and%20Chill.png)
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & A Passionate Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdetective&label=Profile%20views&color=0e75b6&style=flat" alt="mrdetective" /> </p>
