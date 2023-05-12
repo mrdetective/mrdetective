@@ -1,8 +1,7 @@
 ![MasterHead](https://github.com/mrdetective/Cover_img/blob/main/Code%20and%20Chill.png)
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & A Passionate Learner</h3>
-<p align="left"> <img src="https://github.com/mrdetective/Cover_img/blob/main/img.gif" alt="mrdetective" /> </p>
-<img align="right" alt = "Coding" width = "400" src = "https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
+<img align="right" alt = "Coding" width = "400" src = "https://github.com/mrdetective/Cover_img/blob/main/img.gif">
 
 - 🌱 I’m currently learning **Web 3.0, Database Management Systems**
 
