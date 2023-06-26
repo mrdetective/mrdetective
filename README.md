@@ -3,7 +3,7 @@
 <h3 align="center">A full stack developer, Competitive Programmer, Tech Enthusiast & A Passionate Learner</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://github.com/mrdetective/Cover_img/blob/main/img.gif">
 
-- 🌱 I’m currently learning **Web 3.0, Database Management Systems**
+- 🌱 I’m currently learning *Advanced Javascript, Typescript**
 
 - 💬 Ask me about **Javascript, Python, Web Development and Problem Solving**
 
